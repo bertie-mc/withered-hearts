@@ -1,5 +1,9 @@
 # Withered Hearts
 
+> [!IMPORTANT]
+> Development has moved to the [`bertie` monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/withered-hearts).
+> This repository is retained read-only for historical tags, releases, and issues.
+
 Client-side NeoForge mod that trims the vanilla "wither" dark heart bar so it only shows the hearts the Wither effect will actually drain before it expires.
 
 - **Minecraft:** 1.21.1
